@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenLingham&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=StephenLingham&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
 <!--
 **StephenLingham/StephenLingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

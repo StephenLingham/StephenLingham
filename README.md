@@ -21,9 +21,9 @@
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephenLingham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+<!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=StephenLingham&style=flat-square&color=blue" alt=""></p>
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenLingham&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=StephenLingham&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)

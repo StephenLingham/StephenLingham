@@ -4,8 +4,8 @@
 - My childhood dog was called Java 🥰 Named after the programming language 🤓
 - My parents were both software developers
 - I now specialise in .NET, I've been using .NET since 2008
-- Experience working in various different senior, lead, and director level roles
 - Previous experience includes:
+  - Working in various different senior, lead, and director level roles
   - Co-founding a games development company and releasing a game on Steam and PS4 which received a metacritic score of 85
   - Wrote and performed a poetry/comedy show at the Edinburgh Fringe festival
   - Served as Vice Chair and then Chair of the Edinburgh Humanists  

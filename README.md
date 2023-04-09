@@ -1,9 +1,9 @@
-### Full stack developer
-
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/stephenlingham" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephenLingham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--

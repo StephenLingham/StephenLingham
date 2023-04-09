@@ -1,9 +1,17 @@
+### 👋 About me:
+- Full stack software developer and technical leader with over ten years of industry experience
+- The first language I ever learned was Java, I taught myself using a free online university course when I was 13 years old.
+- My childhood dog was called Java 🥰 Named after the language 🙂
+- I now specialise in .NET, I've been using .NET since 2008
+- My parents were both software developers
+- 
+
 ### 📫 How to contact me:
 <a href="https://www.linkedin.com/in/stephenlingham" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-### :fire: My Stats:
+### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephenLingham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--

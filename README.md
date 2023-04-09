@@ -1,10 +1,17 @@
 ### 👋 About me:
 - Full stack software developer and technical leader with over ten years of industry experience
-- The first language I ever learned was Java, I taught myself using a free online university course when I was 13 years old.
-- My childhood dog was called Java 🥰 Named after the language 🙂
-- I now specialise in .NET, I've been using .NET since 2008
+- The first language I ever learned was Java, I taught myself using a free online university course when I was 13 years old
+- My childhood dog was called Java 🥰 Named after the programming language 🤓
 - My parents were both software developers
-- 
+- I now specialise in .NET, I've been using .NET since 2008
+- Experience working in various different senior, lead, and director level roles
+- Previous experience includes:
+  - Co-founding a games development company and releasing a game on Steam and PS4 which received a metacritic score of 85
+  - Wrote and performed a poetry/comedy show at the Edinburgh Fringe festival
+  - Served as Vice Chair and then Chair of the Edinburgh Humanists  
+  - I was in the Army where I received leadership training as a potential officer
+  - Worked as a programming teacher and taught teenagers how to create their own games using Java
+  - Black belt in kung fu
 
 ### 📫 How to contact me:
 <a href="https://www.linkedin.com/in/stephenlingham" target="_blank">

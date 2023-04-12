@@ -1,7 +1,7 @@
 ### 👋 About me:
 - Full stack software developer and technical leader with over ten years of industry experience
-- The first language I ever learned was Java, I taught myself using a publicly accessible online university course when I was 13 years old
 - My childhood dog was called Java 🥰 Named after the programming language 🤓
+- The first language I ever learned was Java, I taught myself using a publicly available online university course when I was 13 years old
 - My parents were both software developers
 - I now specialise in .NET, I've been using .NET since 2008
 - Previous experience includes:

@@ -5,11 +5,11 @@
 - My parents were both software developers
 - I now specialise in .NET, I've been using .NET since 2008
 - Previous experience includes:
-  - Working in various different senior, lead, and director level roles
-  - Co-founding a games development company and releasing a game on Steam and PS4 which received a metacritic score of 85
+  - Worked in various different Senior, Lead, and Director level roles
+  - Co-founded a games development company and released a game on Steam and PS4 which received a metacritic score of 85
   - Wrote and performed a poetry/comedy show at the Edinburgh Fringe festival
   - Served as Vice Chair and then Chair of the Edinburgh Humanists  
-  - I was in the Army where I received leadership training as a potential officer
+  - Trained in the Army where I received leadership training as a potential Officer
   - Worked as a programming teacher and taught teenagers how to create their own games using Java
   - Black belt in kung fu
 

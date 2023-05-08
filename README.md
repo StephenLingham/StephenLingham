@@ -11,7 +11,7 @@
   - Served as Vice Chair and then Chair of the Edinburgh Humanists  
   - Trained in the Army where I received leadership training as a potential Officer
   - Worked as a programming teacher and taught teenagers how to create their own games using Java
-  - Black belt in kung fu
+  - Attained a black belt in kung fu where I helped teach the class
 
 ---
 

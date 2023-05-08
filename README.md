@@ -3,7 +3,7 @@
 - My childhood dog was called Java 🥰 Named after the programming language 🤓
 - The first language I ever learned was Java, I taught myself using a publicly available online university course when I was 13 years old
 - My parents were both software developers
-- I now specialise in .NET, I've been using .NET since 2008
+- I now specialise in .NET, I've been using .NET since 2009
 - Previous experience includes:
   - Worked in various different Senior, Lead, and Director level roles
   - Co-founded a games development company and released a game on Steam and PS4 which received a metacritic score of 85

@@ -1,5 +1,5 @@
 ### 👋 About me:
-- Full stack software developer and technical leader with over ten years of industry experience
+- Full stack software developer and technical leader with 11 years of industry experience
 - My childhood dog was called Java 🥰 Named after the programming language 🤓
 - The first language I ever learned was Java, I taught myself using a publicly available online university course when I was 13 years old
 - My parents were both software developers
@@ -9,7 +9,7 @@
   - Co-founded a games development company and released a game on Steam and PS4 which received a metacritic score of 85
   - Wrote and performed a poetry/comedy show at the Edinburgh Fringe festival
   - Served as Vice Chair and then Chair of the Edinburgh Humanists  
-  - Trained in the Army where I received leadership training as a potential Officer
+  - Trained in the British Army where I received leadership training as a potential Officer
   - Worked as a programming teacher and taught teenagers how to create their own games using Java
   - Attained a black belt in kung fu where I helped teach the class
 
@@ -55,19 +55,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenLingham&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=StephenLingham&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
--->
-
-<!--
-**StephenLingham/StephenLingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
